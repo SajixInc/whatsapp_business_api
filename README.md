@@ -1,4 +1,4 @@
-# How to setup WhatsApp Business Account
+<img src="https://vivifyassets.s3.ap-south-1.amazonaws.com/Setting+up+WhatsApp+business+account.png">
 
 ## Step 1: Download WhatsApp Business App
 
