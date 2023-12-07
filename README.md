@@ -48,7 +48,7 @@
 - Consider using the WhatsApp Business API for more advanced business communication and integration.
 
 
-# How to generate WhatsApp permeant access token 
+# How to generate WhatsApp permanent access token 
 
 ## Steps: 
 
