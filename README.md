@@ -60,8 +60,8 @@
 -  <img width=500 src="https://ivin-pro-data-conversion.s3.amazonaws.com/Ivin_Staging/image_24.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVUQMV7NG27MI2U77%2F20231206%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20231206T101444Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=e4c43928ff5e1244302777a2098a4b46afbe9865ed8e606b127549fdfb75db1e">
 - Click on displayed app 
 - In dashborad click on "WhatsApp" and under dropdown click on "API Setup" 
-- It will show temporary acess token, since temporary acess will expaire in 23hours. so whith this token we need to generate new token after every 23 hours. 
-- So to resolve this problem we need to generate permeant access token.
+- It will show temparory acess token, since temparory acess will expire in 23hours. so whith this token we need to generate new token after every 23 hours. 
+- So to resolve this problem we need to generate permanent access token.
 - In WhatsApp dropdown click on "configuration".
 - Now click on permeant acecess token displayed in the middle box
 - After clicking, it shows few steps to generate permeant token under required assets click on the link point number four.
