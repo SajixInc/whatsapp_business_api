@@ -77,7 +77,7 @@
 
 - In the same page right side click on "Assign assets" button it will show dialogue box, in this "click on apps" option in the left side.
 - <img width = 500 src ="https://ivin-pro-data-conversion.s3.amazonaws.com/Ivin_Staging/image_28.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVUQMV7NG27MI2U77%2F20231206%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20231206T102136Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=64e6fba1fab66b3b9912597395b03fe2d7ba4fe31db1ab38f0d85ec7650e3195">   
-- After clicking you will your business name, select the name clicking on check box and in "manage app" section enable to right, and click on save changes.<image>
+- After clicking you will get your business name, select the name clicking on check box and in "manage app" section enable to right, and click on save changes.<image>
 
 - Again in the same page click on "Generate new token", a dialogue box is displayed in that selct the app with your business name, then select on "Never."
 - <img width = 500 src ="https://ivin-pro-data-conversion.s3.amazonaws.com/Ivin_Staging/image_27.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVUQMV7NG27MI2U77%2F20231206%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20231206T102055Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=26d9fa25ba1653a01307cce3a6713e9b168631d5dd0eaf0bea7690bb53b847a3">
@@ -89,7 +89,31 @@
 - Now a permeant token is avilable to use in the code.
 
 
-- **Note:** Ensure you comply with WhatsApp Business policies and guidelines to avoid any issues.
+# Message template create with image
+
+
+- Ensure that you have a WhatsApp Business API account. This is typically used by medium and large businesses. If you are a small business or an individual, you might not have access to the API.Visit the official WhatsApp Business API documentation to understand the guidelines and specifications for creating message templates. You may find details about message templates, including supported message types, media formats, and other requirements.
+ 
+## Steps: 
+
+- Click on 'App Dashboard,' and it will display a dialogue box like this:
+<img width=500 src ="https://vivifyassets.s3.ap-south-1.amazonaws.com/image.png">
+
+- Within this image, choose 'WhatsApp Manager' and click on the 'Account Tools' option located on the left side.
+
+- Clicking on "Message Templates" will navigate to this page
+<img width=500 src ="https://vivifyassets.s3.ap-south-1.amazonaws.com/message+templete.png">
+
+- In the image above, select the 'Create Template' option located on the right side.
+
+- After clicking on 'Create Template,' you'll be prompted to provide information such as category, name, and language. Fill in the required details, then click on the 'Continue' button.
+
+- Next, you can customize your template further by adding an image in the header and entering text in the body.
+
+- Images can help convey complex information more clearly. For example, if you need to provide step-by-step instructions, an image can make the process easier to understand.
+
+- Make sure your message template and image comply with WhatsApp's policies. This includes guidelines on content, frequency, and user consent.
+
 
 
 **Note:** Ensure you comply with WhatsApp Business policies and guidelines to avoid any issues.
