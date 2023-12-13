@@ -91,8 +91,8 @@
 
 # Message template create with image
 
-
-- Ensure that you have a WhatsApp Business API account. This is typically used by medium and large businesses. If you are a small business or an individual, you might not have access to the API.Visit the official WhatsApp Business API documentation to understand the guidelines and specifications for creating message templates. You may find details about message templates, including supported message types, media formats, and other requirements.
+## Description
+Ensure that you have a WhatsApp Business API account. This is typically used by medium and large businesses. If you are a small business or an individual, you might not have access to the API.Visit the official WhatsApp Business API documentation to understand the guidelines and specifications for creating message templates. You may find details about message templates, including supported message types, media formats, and other requirements.
  
 ## Steps: 
 
@@ -109,6 +109,8 @@
 - After clicking on 'Create Template,' you'll be prompted to provide information such as category, name, and language. Fill in the required details, then click on the 'Continue' button.
 
 - Next, you can customize your template further by adding an image in the header and entering text in the body.
+- 
+- Images allow you to showcase your brand, products, or services in a visually consistent way. This helps in reinforcing brand identity and recognition.
 
 - Images can help convey complex information more clearly. For example, if you need to provide step-by-step instructions, an image can make the process easier to understand.
 
