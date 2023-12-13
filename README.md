@@ -89,7 +89,7 @@
 - Now a permeant token is avilable to use in the code.
 
 
-# Message template create with image
+# Message template with image
 
 ## Description
 Ensure that you have a WhatsApp Business API account. This is typically used by medium and large businesses. If you are a small business or an individual, you might not have access to the API.Visit the official WhatsApp Business API documentation to understand the guidelines and specifications for creating message templates. You may find details about message templates, including supported message types, media formats, and other requirements.
