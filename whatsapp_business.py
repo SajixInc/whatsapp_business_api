@@ -1,7 +1,7 @@
 import json
 
 import requests
-url ='https://graph.facebook.com/v17.0/109750998834905/messages'
+url ='pass your meta url'
 
 
 header = {
