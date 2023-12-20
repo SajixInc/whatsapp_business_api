@@ -117,6 +117,34 @@ Ensure that you have a WhatsApp Business API account. This is typically used by 
 - Make sure your message template and image comply with WhatsApp's policies. This includes guidelines on content, frequency, and user consent.
 
 
+# Message template with Links:
+
+## Description
+Links provide a convenient way for users to access additional information without having to navigate through multiple messages or search for details. Links can direct users to more detailed content, such as articles, product pages, or promotional offers. Users are more likely to engage with interactive content or take specific actions through clickable links. Links allow you to share rich media content, such as videos, images, and interactive web pages, providing a more engaging experience for users.
+
+ 
+
+## Steps: 
+
+- Click on 'App Dashboard,' and it will display a dialogue box like this:
+<img width=500 src ="https://vivifyassets.s3.ap-south-1.amazonaws.com/image.png">
+
+- Within this image, choose 'WhatsApp Manager' and click on the 'Account Tools' option located on the left side.
+
+- Clicking on "Message Templates" will navigate to this page
+<img width=500 src ="https://vivifyassets.s3.ap-south-1.amazonaws.com/message+templete.png">
+
+- In the image above, select the 'Create Template' option located on the right side.
+
+- After clicking on 'Create Template,' you'll be prompted to provide information such as category, name, and language. Fill in the required details, then click on the 'Continue' button.
+
+- Next, you can enhance the template by incorporating an image into the header, inserting text in the body, adding your URL in the footer, and including a button beneath the footer.
+- Clicking on the "Add a Button" button will prompt a dialogue box to appear, wherein you can enter your URL.
+<img width=500 src ="https://vivifyassets.s3.amazonaws.com/image (1).png">
+
+- It's important to use links responsibly and ensure that the content being shared complies with WhatsApp's policies and guidelines. Additionally, businesses should be transparent about the destination of the links to build trust with their audience.
+
+
 
 **Note:** Ensure you comply with WhatsApp Business policies and guidelines to avoid any issues.
 
