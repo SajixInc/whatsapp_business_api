@@ -106,7 +106,7 @@ Ensure that you have a WhatsApp Business API account. This is typically used by 
 
 - In the image above, select the 'Create Template' option located on the right side.
 
-- After clicking on 'Create Template,' you'll be prompted to provide information such as category, name, and language. Fill in the required details, then click on the 'Continue' button.
+- After clicking on 'Create Template,' you'll be prompted to provide information such as category, template name, and language. Fill in the required details, then click on the 'Continue' button.
 
 - Next, you can customize your template further by adding an image in the header and entering text in the body.
 - 
@@ -136,13 +136,76 @@ Links provide a convenient way for users to access additional information withou
 
 - In the image above, select the 'Create Template' option located on the right side.
 
-- After clicking on 'Create Template,' you'll be prompted to provide information such as category, name, and language. Fill in the required details, then click on the 'Continue' button.
+- After clicking on 'Create Template,' you'll be prompted to provide information such as category, template name, and language. Fill in the required details, then click on the 'Continue' button.
 
 - Next, you can enhance the template by incorporating an image into the header, inserting text in the body, adding your URL in the footer, and including a button beneath the footer.
 - Clicking on the "Add a Button" button will prompt a dialogue box to appear, wherein you can enter your URL.
 <img width=500 src ="https://vivifyassets.s3.amazonaws.com/image (1).png">
 
 - It's important to use links responsibly and ensure that the content being shared complies with WhatsApp's policies and guidelines. Additionally, businesses should be transparent about the destination of the links to build trust with their audience.
+
+
+
+
+
+
+# Message template with Videos
+
+## Brife Description
+Businesses can create and share videos demonstrating their products or services. This can help potential customers better understand the features and benefits. Video content can be used to create tutorials or how-to guides related to the products or services offered by the business. This can be a helpful way to assist customers and provide valuable information. Videos can be used to promote special offers, discounts, or new products. Visual content is often more engaging and can capture the attention of users
+
+## Steps: 
+- Click on 'App Dashboard,' and it will display a dialogue box like this:
+<img width=500 src ="https://vivifyassets.s3.ap-south-1.amazonaws.com/image.png">
+- Within this image, choose 'WhatsApp Manager' and click on the 'Account Tools' option located on the left side.
+
+- Clicking on "Message Templates" will navigate to this page
+<img width=500 src ="https://vivifyassets.s3.ap-south-1.amazonaws.com/message+templete.png">
+
+- In the image above, select the 'Create Template' option located on the right side.
+
+- After clicking on 'Create Template,' you'll be prompted to provide information such as category, template name, and language. Fill in the required details, then click on the 'Continue' button.
+
+- Next, you can enhance the template by incorporating an video into the header, inserting text in the body, adding your URL in the footer, and including a button beneath the footer.
+
+- After creating your message, please proceed to click on the 'Submit' button located at the top right corner. This action will finalize the creation of your message template, which includes the attached video.
+
+### Product Demonstrations:
+
+- Businesses can create and share videos demonstrating their products or services. This can help potential customers better understand the features and benefits.
+
+### Tutorials and How-To Guides:
+
+- Video content can be used to create tutorials or how-to guides related to the products or services offered by the business. This can be a helpful way to assist customers and provide valuable information.
+
+### Customer Support:
+
+- Businesses can use video to provide personalized customer support. For example, they can create videos explaining common issues or answering frequently asked questions.
+
+### Promotions and Offers:
+
+- Videos can be used to promote special offers, discounts, or new products. Visual content is often more engaging and can capture the attention of users.
+
+### Behind-the-Scenes:
+
+- Sharing behind-the-scenes videos gives customers a glimpse into the workings of the business. This can help humanize the brand and build a stronger connection with customers.
+
+### Event Announcements:
+
+- Businesses can use video to announce and promote events, whether they are online webinars, physical store events, or product launches.
+
+### Customer Testimonials:
+
+- Video testimonials from satisfied customers can be a powerful way to build trust and credibility. Businesses can share these videos to showcase positive experiences.
+
+### Updates and Announcements:
+
+- Businesses can use video to provide updates about their products, services, or any changes in operations. This can keep customers informed and engaged.
+
+### Storytelling:
+
+- Video is an effective medium for storytelling. Businesses can use it to share their brand story, mission, and values.
+
 
 
 
