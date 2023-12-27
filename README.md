@@ -147,8 +147,6 @@ Links provide a convenient way for users to access additional information withou
 
 
 
-
-
 # Message template with Videos
 
 ## Brife Description
